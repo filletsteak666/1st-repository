@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	font-style: Comic;
+}
+
+nav ul{
+	display: inline;
+	margin: 0;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	color: white; 
+}
+
+nav ul li a{
+	display: inline-block;
+	color: white;
+	padding: 18px;
+}
+
+header {
+	background: #999;
+	color: white;
+}
+
+header h1 {
+	margin: 15px;
+	color: black;
+	display: inline;
+	font-size: 1.5em;
+}
+
+nav ul p{
+	display: inline;
+	color: black;
+}
+
+embed{
+	float: auto;
+	padding: 10px;
+}
+
+.phone{
+	display: inline-block;
+	color: black;
+	float: right;
+	padding: 15px;
+}
+
+.faceurl{
+}
+
+.toptitle{
+	color: #999;
+	font-style: Comic;
+	padding: 15px;
+	margin: 0;
+}
